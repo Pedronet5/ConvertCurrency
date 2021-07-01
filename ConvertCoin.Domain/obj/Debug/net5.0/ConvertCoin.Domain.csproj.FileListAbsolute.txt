@@ -1,0 +1,12 @@
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\bin\Debug\net5.0\ConvertCoin.Domain.deps.json
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\bin\Debug\net5.0\ConvertCoin.Domain.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\bin\Debug\net5.0\ref\ConvertCoin.Domain.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\bin\Debug\net5.0\ConvertCoin.Domain.pdb
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ConvertCoin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ConvertCoin.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ConvertCoin.Domain.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ConvertCoin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ConvertCoin.Domain.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ref\ConvertCoin.Domain.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ConvertCoin.Domain.pdb
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Domain\obj\Debug\net5.0\ConvertCoin.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\bin\Debug\net5.0\ConvertCoin.Infraestruture.deps.json
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\bin\Debug\net5.0\ConvertCoin.Infraestruture.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\bin\Debug\net5.0\ref\ConvertCoin.Infraestruture.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\bin\Debug\net5.0\ConvertCoin.Infraestruture.pdb
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\bin\Debug\net5.0\ConvertCoin.Domain.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\bin\Debug\net5.0\ConvertCoin.Domain.pdb
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.csproj.CopyComplete
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ref\ConvertCoin.Infraestruture.dll
+C:\Users\Pedro\source\repos\ConversorDeMoedas\ConvertCoin.Infraestruture\obj\Debug\net5.0\ConvertCoin.Infraestruture.pdb

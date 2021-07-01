@@ -1,0 +1,31 @@
+﻿<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="main.js"></script>
+
+@{
+    ViewData["Title"] = "Convert Coin API";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Convert Coin API</h1>
+    <br />
+    <div>
+        <h3>Converter Moeda</h3>
+        <h5>$ USD</h5>
+    </div>
+    <div>
+        <h3>Para</h3>
+        <div>
+            <input id="cbPara1" type="checkbox" name="moedas" value="BRL" class="select-moeda" /><label class="select-moeda" for="cbPara1">&nbsp;BRL</label>&nbsp;&nbsp;
+            <input id="cbPara2" type="checkbox" name="moedas" value="AUD" class="select-moeda" /><label class="select-moeda" for="cbPara2">&nbsp;AUD</label>&nbsp;&nbsp;
+            <input id="cbPara3" type="checkbox" name="moedas" value="CAD" class="select-moeda" /><label class="select-moeda" for="cbPara3">&nbsp;CAD</label>&nbsp;&nbsp;
+            <input id="cbPara4" type="checkbox" name="moedas" value="GBP" class="select-moeda" /><label class="select-moeda" for="cbPara4">&nbsp;GBP</label>&nbsp;&nbsp;
+            <input id="cbPara5" type="checkbox" name="moedas" value="EUR" class="select-moeda" /><label class="select-moeda" for="cbPara5">&nbsp;EUR</label>
+        </div>
+    </div>
+    <br />
+    <div>
+        <button id="btnBuscarCotacao" class="btn btn-dark">Buscar Cotação</button>
+    </div>
+    <br />
+    <div id="divCotacao" style="display: none;"></div>
+</div>
